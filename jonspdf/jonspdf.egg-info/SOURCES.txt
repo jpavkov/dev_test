@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+jonspdf/__init__.py
+jonspdf/pdf2image.py
+jonspdf/pdf2text.py
+jonspdf.egg-info/PKG-INFO
+jonspdf.egg-info/SOURCES.txt
+jonspdf.egg-info/dependency_links.txt
+jonspdf.egg-info/top_level.txt
